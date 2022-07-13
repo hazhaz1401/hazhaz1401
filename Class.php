@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @hazhaz1401
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+مفهوم شی و کلاس
+در ادامه به مفهوم شی و کلاس می‌پردازیم. یک کلاس با کلمه‌ی کلیدی class تعریف می‌شود. پس از این کلمه، نام کلاس و {} می‌آیند. تمام Propertyهای کلاس و متدها درون {} قرار می‌گیرند:
 
-<!---
-hazhaz1401/hazhaz1401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<?php
+class Fruit {
+  // code goes here...
+}
+?>
